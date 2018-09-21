@@ -243,6 +243,12 @@ xapp (1.4.0) tessa; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 Oct 2018 15:26:24 +0000
 
+xapp (1.2.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 21 Sep 2018 16:14:37 +0200
+
 xapp (1.2.2) tara; urgency=medium
 
   [ Fabio Fantoni ]
