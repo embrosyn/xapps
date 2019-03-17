@@ -154,6 +154,12 @@ xapp (1.4.6) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Fri, 14 Jun 2019 12:00:33 +0100
 
+xapp (1.4.5-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 17 Mar 2019 20:31:05 +0100
+
 xapp (1.4.5) tessa; urgency=medium
 
   * l10n: Update translations
