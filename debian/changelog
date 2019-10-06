@@ -127,6 +127,12 @@ xapp (1.6.0) tricia; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Tue, 12 Nov 2019 11:12:12 +0100
 
+xapp (1.4.9-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 06 Oct 2019 21:16:47 +0200
+
 xapp (1.4.9) tina; urgency=medium
 
   [ Michael Webster ]
